@@ -23,7 +23,5 @@ import Calculadora from './components/Calculadora.vue';
 #app {
   text-align: center;
   margin-top: 60px;
-  background-color: #ffffff;
-  color: #1d1e1f;
 }
 </style>
